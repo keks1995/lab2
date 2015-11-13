@@ -5,4 +5,5 @@ int main()
     std::cout<<"Enter chisla";
     std::cin>>a>>b;
      std::cout<<a+b;
+     std::cout<<a-b;
 }
